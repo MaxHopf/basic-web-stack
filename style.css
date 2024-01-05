@@ -1,3 +1,8 @@
+* {
+    /* Smooth scroll instead of jump */
+    scroll-behavior: smooth;
+}
+
 body,
 html {
     height: 100%;
