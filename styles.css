@@ -3,6 +3,14 @@
     scroll-behavior: smooth;
 }
 
+/* Global Variables */
+:root {
+    --color-dark-text: hsla(0, 0%, 0%, 0.87);
+    --color-light-text: #FAFAFA;
+    --color-black: hsla(0, 0%, 0%, 0.87);
+    --color-white: #FAFAFA;
+}
+
 body,
 html {
     height: 100%;
