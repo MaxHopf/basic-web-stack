@@ -1,6 +1,7 @@
 * {
     /* Smooth scroll instead of jump */
     scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 
 /* Global Variables */
@@ -16,7 +17,6 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 /* Class for visually hide text for only screen readers to read */
